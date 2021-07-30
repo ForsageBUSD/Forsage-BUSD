@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://getgrouplinks.com/wp-content/uploads/2021/06/Forsage-BUSD-top-team-scaled.jpg');
+}
+
+/* #imgChanger{
+    max-width: 100%;
+    height: 100%;
+    background-image: url('images/Forsage-1.jpg');
+    position: relative;
+    z-index: -1;
+} */
+
+#picshur {
+    top: 0;
+    width: 100%;
+    height: 10%;
+}
+
+video {
+    position: relative;
+    width: 100%;
+    height: 10%;
+    top: 0;
+}
+
+hr {
+    border: 3px solid #da19aa;
+}
