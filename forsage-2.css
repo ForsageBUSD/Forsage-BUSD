@@ -9,19 +9,19 @@ body {
 
 .mid-container {
     width: 95%;
-    height: 17%;
-    top: 50px;
+    height: 114px;
+    top:10px;
     left: 9px;
-    font-size: 14px;
-    position: absolute;
+    font-size: 15px;
+    position: relative;
 }
 
 .foot-container {
     background: #f3b94d;
-    position: absolute;
+    position: relative;
     width: 100%;
-    height: 9%;
-    top: 295%;
+    height: 50px;
+    top: 1820px;
     left: 0px;
 }
 
@@ -48,21 +48,21 @@ img {
 }
 
 #reduced2 {
-    position: absolute;
+    position: relative;
     width: 100%;
     font-size: 15px;
     height: auto;
-    top: 405px;
+    top: 13px;
     left: 0;
     background: rgb(216, 183, 216);
 }
 
 #reduced3 {
-    position: absolute;
+    position: relative;
     width: 100%;
     height: auto;
     font-size: 15px;
-    top: 1310%;
+    top: 25px;
     left: 0;
     background: rgb(216, 183, 216);
 }
@@ -72,11 +72,11 @@ img {
 }
 
 #reduced4 {
-    position: absolute;
+    position: relative;
     width: 100%;
     height: auto;
     font-size: 15px;
-    top: 1420%;
+    top: 37px;
     left: 0;
     background: rgb(216, 183, 216);
 }
