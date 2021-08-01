@@ -1,13 +1,13 @@
 .container {
   width: 100%;
-  height: 50%;
+  height: 30%;
   background: #f3b94d;
 }
 .mid-container {
   width: 100%;
   height: 35%;
   background: #f3b94d;
-  position: absolute;
+  position: relative;
   z-index: -1;
 }
 body
